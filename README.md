@@ -1,6 +1,6 @@
 # Animal-Guessing-Game
 This is my final kibo project for the future proof with Python project. It is a Python based guessing game where users give various facts about animals. 
-Final Project for Kibo's Future Perfect with Python program.
+Final Project for Kibo's Future Proof with Python program.
 
 This quiz game uses a function; a block of code with a name that performs a specific task. A function allows you to use the same code several times, without having to type everything each time. Python has a lot of built-in functions, but it also allows you to create your functions.
 
