@@ -1,4 +1,7 @@
 # Animal-Guessing-Game
+
+![maxresdefault](https://user-images.githubusercontent.com/102630199/228614050-406f2f91-e9ef-48f9-a2f6-e75cb0877d81.jpg)
+
 This is my final kibo project for the future proof with Python project. It is a Python based guessing game where users give various facts about animals. 
 Final Project for Kibo's Future Proof with Python program.
 
